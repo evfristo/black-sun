@@ -1,2 +1,2 @@
 # abyss
-A text-based game about commanding a submarine in a hostile ocean on a remote planet. 
+A text-based game deep space freighter that gets stranded in an uncharted system by accident.
